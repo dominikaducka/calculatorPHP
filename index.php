@@ -77,7 +77,6 @@
         echo "<p class='calc-result'>Result = " .
         $value . "</p>";
       }
-    
   }  
   ?>
 
